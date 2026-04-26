@@ -1,6 +1,6 @@
 # virtual-world-core
 一款为 AI 驱动、无叙事的游戏世界打造的、规则不可变的开源虚拟世界引擎。
-# 🌍 Nohn 虚拟世界核心引擎 · 第二视角审计架构
+ # 🌍 Nohn™ 虚拟世界核心引擎 · 第二视角™ 审计架构
 
 **“虚拟世界的宪法库 · 十亿人数字文明的底层协议”**
 
@@ -43,3 +43,4 @@ class WorldCentralBrain:
     consensus_layer: ConsensusEngine   # 确定世界唯一状态（类区块链共识）
     simulation_layer: SimulationEngine # 生态/经济/社会多智能体演化
     memory_layer: MemoryVault          # 所有NPC的长期记忆存储与检索
+Nohn、第二视角 为原创品牌标识，未经授权禁止商用冒用。
